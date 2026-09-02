@@ -1,0 +1,19 @@
+claude-desktop.md
+  s_22044b32b5ef56::t_4513c1d076d679 1-296
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "7975d89b565834fdceeb136f2f5b4756b3ce78cc",
+  "prompts": {},
+  "sessions": {
+    "s_22044b32b5ef56": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "41c74631-4cdc-4b84-8a40-c276e51ec550",
+        "model": "claude-opus-5"
+      },
+      "human_author": "miaoxiaoming <miaoxiaoming@xiaohongshu.com>"
+    }
+  }
+}
